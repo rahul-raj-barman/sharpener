@@ -7,4 +7,5 @@ promise.then((response) => response.json())
 .catch((error) => {
     console.log(error)
 })
+console.log("Hello")
 //lesson 18
